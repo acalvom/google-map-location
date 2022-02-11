@@ -1,0 +1,11 @@
+#map {
+    display: block;
+    width: 100%;
+    height: 400px;
+    margin: 0 auto;
+}
+
+#web, #direccion, #telefono, #email  {
+    text-align:left;
+    border: transparent;
+}
